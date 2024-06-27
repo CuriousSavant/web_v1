@@ -6,7 +6,7 @@
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/Imbatman2008/WebSite_v1.git
+  git clone https://github.com/CuriousSavant/WebSite_v1.git
   cd web_v1
   npm i 
   npm run dev
